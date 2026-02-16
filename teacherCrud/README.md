@@ -25,6 +25,7 @@ Open `src/main/resources/application.properties` and update the database credent
 spring.datasource.url=****
 spring.datasource.username=****
 spring.datasource.password=****
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 ```
 
 ## Running the Application
