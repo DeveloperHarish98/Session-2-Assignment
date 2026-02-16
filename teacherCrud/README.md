@@ -4,7 +4,7 @@ This is a Spring Boot CRUD application for managing teachers with a professional
 
 ## Prerequisites
 
-1. **Java 17** or higher.
+1. **Java 17**
 2. **MySQL Database**.
 
 ## Database Setup
