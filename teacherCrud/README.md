@@ -22,8 +22,8 @@ This is a Spring Boot CRUD application for managing teachers with a professional
 Open `src/main/resources/application.properties` and update the database credentials if they differ from the defaults:
 
 ```properties
-spring.datasource.username=root
-spring.datasource.password=root
+spring.datasource.username=****
+spring.datasource.password=****
 ```
 
 ## Running the Application
